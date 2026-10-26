@@ -6,6 +6,10 @@ Assignment 1 - Hello World: GitHub and d3
 A star constellation generator, each constellation contains 3–8 randomly positioned stars, represented by circles, squares, and triangles in five colors. Stars are connected by white lines.
 Click **Generate New Constellation** to reload the page and create a new pattern.
 
+Website link: https://vhmnguyen.github.io/a1-ghd3/ 
+
+![Page Screenshot](assets/page_screenshot.png "Page Screenshot")
+
 ## Technical Achievement
 
 - **Random generation:** Randomly selects the star count, positions, shapes, and colors each time the page loads.
